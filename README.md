@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chitra.rk.in@gmail.com**
 
-- ⚡ Fun fact **I enjoy spending time playing video games and board games.**
+- ⚡ Fun fact **I enjoy spending time playing video games and board games.** Infact my first job in tech actually came from a referral through an online PC game competitor.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
