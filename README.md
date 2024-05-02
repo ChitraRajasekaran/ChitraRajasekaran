@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitrarajasekaran&show_icons=true&locale=en&layout=compact" alt="chitrarajasekaran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitrarajasekaran&show_icons=true&locale=en" alt="chitrarajasekaran" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitrarajasekaran&" alt="chitrarajasekaran" /></p>
