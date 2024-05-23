@@ -4,13 +4,9 @@
 <p align="left"> <a href="https://twitter.com/chitrarkin" target="blank"><img src="https://img.shields.io/twitter/follow/chitrarkin?logo=twitter&style=for-the-badge" alt="chitrarkin" /></a> </p>
 
 - 🔭 I’m currently working on **ComicAIVerse**
-
 - 🌱 I’m currently learning **Large Language Models, NextJS, Typescript, Django**
-
 - 📝 I regularly write articles on [https://medium.com/@chitrark](https://medium.com/@chitrark)
-
 - 📫 How to reach me **chitra.rk.in@gmail.com**
-
 - ⚡ Fun fact **I enjoy spending time playing video games and board games.** Infact my first job in tech actually came from a referral through an online PC game competitor.
 
 <h3 align="left">Connect with me:</h3>
