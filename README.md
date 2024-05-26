@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chitra</h1>
-<h3 align="center">Building AI Apps</h3>
+<h3 align="center">Building AI Apps - Debugging the gender gap!</h3>
 
 <p align="left"> <a href="https://twitter.com/chitrarkin" target="blank"><img src="https://img.shields.io/twitter/follow/chitrarkin?logo=twitter&style=for-the-badge" alt="chitrarkin" /></a> </p>
 
